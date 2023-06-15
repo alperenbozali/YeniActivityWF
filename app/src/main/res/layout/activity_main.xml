@@ -357,7 +357,7 @@
 
                         <androidx.cardview.widget.CardView
                             android:id="@+id/cvfavoriler1"
-                            android:layout_width="118dp"
+                            android:layout_width="111dp"
                             android:layout_height="match_parent"
                             android:text="@string/xfavsehir1"
                             app:cardBackgroundColor="#7AAAE6EC"
@@ -411,7 +411,7 @@
 
                         <androidx.cardview.widget.CardView
                             android:id="@+id/cvfavoriler2"
-                            android:layout_width="118dp"
+                            android:layout_width="111dp"
                             android:layout_height="match_parent"
                             android:text="@string/xfavsehir2"
                             app:cardBackgroundColor="#7AAAE6EC"
